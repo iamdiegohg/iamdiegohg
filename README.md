@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Diego!
 
-<!--
-**iamdiegohg/iamdiegohg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Data Engineer with expertise in modern data tools and cloud technologies. I love building efficient pipelines and transforming raw data into meaningful insights. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔭 Currently working on: [Your current project]
+- 🌱 Learning: Azure Data Factory, Databricks, and Delta Lake
+- 👯 Open to collaborating on: Data Engineering and Cloud projects
+- 📫 How to reach me: [Your email or LinkedIn]
+
+---
+
+## 🚀 Skills and Tools
+### Programming Languages:
+- 🐍 Python
+- 🔢 SQL
+- 💻 Shell Scripting
+
+### Cloud & Big Data Tools:
+- ☁️ Azure Data Factory
+- 🛠️ Databricks
+- 💾 Delta Lake
+- 📊 Azure Synapse Analytics
+
+### Other Tools:
+- 🛠 Git and GitHub
+- 📋 Tableau / Power BI
+- 🔍 Apache Spark
+
+---
+
+## 📈 GitHub Stats
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdiegohg&show_icons=true&theme=dark)
+
+---
+
+## 🔗 Connect with Me
+- 🌐 [Your Portfolio or Website](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📹 [YouTube](#)
+- 📧 [Your Email](mailto:youremail@example.com)
