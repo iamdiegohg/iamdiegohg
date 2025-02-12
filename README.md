@@ -1,3 +1,5 @@
+<img width="1042" alt="Screenshot 2025-02-12 at 12 58 25" src="https://github.com/user-attachments/assets/6a2b052d-c66a-4032-86fd-5c31f355bb90" />
+
 ## About Me
 Customer-oriented IT Manager with 10yrs. of industry experience, including 5 leading Data Engineering and Analytics initiatives. I specialize in transforming complex business requirements into technical solutions that boost lead generation and revenue growth.
 By applying Agile and proven Ops practices, I guide cross-functional teams in designing and implementing robust, cloud-based Data platforms, laying the groundwork for advanced AI & ML solutions.
