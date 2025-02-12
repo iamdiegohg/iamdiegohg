@@ -1,7 +1,7 @@
-# Hi 👋, I'm Diego!
+# Bio
 
-I am a passionate Data Engineer with expertise in modern data tools and cloud technologies. I love building efficient pipelines and transforming raw data into meaningful insights. 🚀
-
+Customer-oriented IT Manager with 10yrs. of industry experience, including 5 leading Data Engineering and Analytics initiatives. I specialize in transforming complex business requirements into technical solutions that boost lead generation and revenue growth.
+By applying Agile and proven Ops practices, I guide cross-functional teams in designing and implementing robust, cloud-based Data platforms, laying the groundwork for advanced AI & ML solutions.
 ---
 
 ## 🌟 About Me
