@@ -25,13 +25,7 @@ By applying Agile and proven Ops practices, I guide cross-functional teams in de
 
 ---
 
-## 📈 GitHub Stats
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdiegohg&show_icons=true&theme=dark)
-
----
-
 ## 🔗 Connect with Me
-- 🌐 [Your Portfolio or Website](#)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📹 [YouTube](#)
-- 📧 [Your Email](mailto:youremail@example.com)
+- 🌐 [CV](https://www.linkedin.com/in/iamdiegohg)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iamdiegohg)
+- 📧 [Email](mailto:contact@diegohg.com)
